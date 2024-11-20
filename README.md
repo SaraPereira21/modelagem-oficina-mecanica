@@ -17,7 +17,7 @@ Este projeto envolve a criação de um modelo conceitual de banco de dados para 
   - Endereço
   - Especialidade
 - **Ordens de Serviço (OS)**:
-  - Id
+  - Id. da OS
   - Serviço
   - Valor da mão de obra (MDO)
   - Valor das peças
